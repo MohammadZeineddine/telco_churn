@@ -13,6 +13,3 @@ python = "^3.12"
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
-poetry add pandas numpy scikit-learn
-poetry add --group dev pytest ruff mypy pdoc invoke
-
